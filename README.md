@@ -1,3 +1,26 @@
+## cartesian_msgs (kinetic) - 0.0.3-1
+
+The packages in the `cartesian_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release cartesian_msgs -t kinetic -r kinetic --edit` on `Wed, 29 Jun 2016 13:33:34 -0000`
+
+The `cartesian_msgs` package was released.
+
+Version of package(s) in repository `cartesian_msgs`:
+
+- upstream repository: https://github.com/davetcoleman/cartesian_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.3-0`
+- new version: `0.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## cartesian_msgs (kinetic) - 0.0.3-0
 
 The packages in the `cartesian_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release cartesian_msgs -t kinetic -r kinetic` on `Wed, 29 Jun 2016 12:51:14 -0000`

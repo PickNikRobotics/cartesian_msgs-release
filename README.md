@@ -1,3 +1,26 @@
+## cartesian_msgs (melodic) - 0.0.3-0
+
+The packages in the `cartesian_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release cartesian_msgs -t melodic -r melodic` on `Thu, 31 May 2018 23:29:11 -0000`
+
+The `cartesian_msgs` package was released.
+
+Version of package(s) in repository `cartesian_msgs`:
+
+- upstream repository: https://github.com/PickNikRobotics/cartesian_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## cartesian_msgs (lunar) - 0.0.3-0
 
 The packages in the `cartesian_msgs` repository were released into the `lunar` distro by running `/usr/bin/bloom-release cartesian_msgs -t lunar -r lunar` on `Mon, 19 Jun 2017 05:42:03 -0000`

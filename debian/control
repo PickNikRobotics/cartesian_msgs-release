@@ -1,0 +1,12 @@
+Source: ros-noetic-cartesian-msgs
+Section: misc
+Priority: optional
+Maintainer: Dave Coleman <davetcoleman@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-std-msgs
+Homepage: https://github.com/davetcoleman/cartesian_msgs
+Standards-Version: 3.9.2
+
+Package: ros-noetic-cartesian-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-std-msgs
+Description: Stream cartesian commands
